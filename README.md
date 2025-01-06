@@ -9,6 +9,9 @@
 ├── output_13_0.png                               <- test image
 
 ```
+
+![Demo](https://github.com/Taweilo/MNIST/blob/main/Demonstration.gif)
+
 ## Introduction
 This project demonstrates the creation and deployment of a Convolutional Neural Network (CNN) to classify handwritten digits using the MNIST dataset. The project integrates the model with a Gradio interface to provide a user-friendly way to test digit predictions.
 
